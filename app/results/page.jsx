@@ -107,12 +107,12 @@ export default function ResultsPage() {
           )}
 
           {/* try again */}
-          {/* <Link
+          <Link
             href="/topics"
             className="mt-8 inline-flex rounded-xl bg-accent px-6 py-3 font-semibold text-black transition hover:scale-[1.01]"
           >
             Try Again
-          </Link> */}
+          </Link>
 
         </div>
       </main>
