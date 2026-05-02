@@ -9,7 +9,7 @@
 
 ## 🔗 Live Demo
 
-[ADD YOUR DEPLOYED URL HERE]
+https://voice-prep-azure.vercel.app/
 
 <!-- ADD DEMO GIF HERE -->
 <!-- ![VoicePrep Demo](./demo.gif) -->
@@ -127,20 +127,18 @@ Open [http://localhost:3000](http://localhost:3000) in Chrome or Edge.
 ## 📸 Screenshots
 
 <!-- Add screenshots here -->
-<!-- ![Topics Page](./screenshots/topics.png) -->
-<!-- ![Interview Page](./screenshots/interview.png) -->
-<!-- ![Results Page](./screenshots/results.png) -->
+
 
 ---
 
 ## 👤 Author
 
 **[YOUR NAME]**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@Kush-67598](https://github.com/Kush-67598)
 - LinkedIn: [yourlinkedin](https://linkedin.com/in/yourlinkedin)
 
 ---
 
 ## 📄 License
 
-MIT © [YOUR NAME]
+MIT © [KUSH KUMAR SINGH]
