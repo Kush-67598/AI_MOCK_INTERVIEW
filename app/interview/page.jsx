@@ -122,7 +122,7 @@ export default function InterviewPage({ searchParams }) {
 
     const nextIndex = questionIndex + 1;
     setQuestionIndex(nextIndex);
-    if (nextIndex > 2) {
+    if (nextIndex > 10) {
       router.push("/results");
     } else {
       setTranscript("");
